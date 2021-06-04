@@ -1,0 +1,9 @@
+.top-buttons{
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.input-center{
+    margin-top:20px ;
+}
